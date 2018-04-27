@@ -1,0 +1,30 @@
+
+* Attitudinal Scope                                                  :medium:
+
+Attitudinals apply to whatever the scope of the previous word is.
+
+#+BEGIN_SRC 
+lo melbi .ui gerku
+I'm happy that it's *pretty* (and it happens to be a dog)
+
+lo melbi gerku .ui
+I'm happy that it's a dog (and it happens to be pretty)
+
+lo .ui melbi gerku
+I'm happy that it's a *pretty dog*
+#+END_SRC
+
+Look at the previous word, and see what it applies to. In the last
+example, ~lo~ applies to all of ~melbi gerku~, so the ~ui~ applies to all of
+~melbi gerku~ too.
+
+Knowing this, you can understand this phrase:
+
+#+BEGIN_SRC 
+re verba cu .ui kelci 
+I'm happy that two children are playing.
+#+END_SRC
+
+I'm not happy due to the ~cu~, I'm happy due to whatever the ~cu~
+covers. In this case, that's the ~kelci~.
+
