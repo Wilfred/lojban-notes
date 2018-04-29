@@ -28,3 +28,29 @@ I'm happy that two children are playing.
 I'm not happy due to the ~cu~, I'm happy due to whatever the ~cu~
 covers. In this case, that's the ~kelci~.
 
+* Shared arguments in predicates                                     :medium:
+
+gi'e joins relationships, but only shares the arguments before the
+first relation.
+
+#+BEGIN_SRC 
+mi citka gi'e pinxe
+= mi citka zo'e gi'e pinxe zo'e
+
+I eat and drink (different things)
+#+END_SRC
+
+#+BEGIN_SRC 
+mi dunda su'o plise gi'e cpacu su'o perli vau do
+
+I [give an apple (to)] and [get a pear (from)] you
+#+END_SRC
+
+By contrast, je shares all arguments.
+
+#+BEGIN_SRC 
+mi citka je pinxe
+= mi citke je pinxe zo'e
+
+I eat and drink (the same thing)
+#+END_SRC
