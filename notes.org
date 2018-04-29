@@ -31,7 +31,7 @@ covers. In this case, that's the ~kelci~.
 * Shared arguments in predicates                                     :medium:
 
 gi'e joins relationships, but only shares the arguments before the
-first relation.
+first relation, or after vau.
 
 #+BEGIN_SRC 
 mi citka gi'e pinxe
@@ -42,6 +42,8 @@ I eat and drink (different things)
 
 #+BEGIN_SRC 
 mi dunda su'o plise gi'e cpacu su'o perli vau do
+= mi fi do dunda fe su'o plise gi'e cpacu fe su'o perli
+= dunda su'o plise gi'e cpacu su'o perli vau fa mi fi do
 
 I [give an apple (to)] and [get a pear (from)] you
 #+END_SRC
