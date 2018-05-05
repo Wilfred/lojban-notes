@@ -56,3 +56,30 @@ mi citka je pinxe
 
 I eat and drink (the same thing)
 #+END_SRC
+
+* Grouping in compound tanru                                         :medium:
+
+Normally, tanru are left-grouping:
+
+#+BEGIN_SRC 
+melbi nixli ckule
+(pretty girls)' school
+#+END_SRC
+
+You can use ~bo~ to do right-grouping:
+
+#+BEGIN_SRC 
+melbi nixli ckule
+pretty (girls' school)
+#+END_SRC
+
+Lojban has an equivalent to (), which is ~ke~ and ~ke'e~:
+
+#+BEGIN_SRC 
+melbi ke nixli ckule ke'e
+pretty (girls' school)
+#+END_SRC
+
+~ke~ is simpler, but requires you to use it in advance. The nice thing
+about ~bo~ is that you can use it when you realise later that you have
+more to say.
