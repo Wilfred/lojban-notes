@@ -1,3 +1,32 @@
+* Things in relationships                                              :easy:
+
+Normally, we use word order to signify the different parts of a
+relationship.
+
+#+BEGIN_SRC 
+mi citka lo plise
+I eat an apple/apples
+#+END_SRC
+
+We can also use ~fa~, ~fe~, ~fi~, ~fo~ and ~fu~ to specify which part of the
+relationship we're talking about.
+
+#+BEGIN_SRC 
+fa mi citka fe lo plise
+citka fa mi fe lo plise
+fe lo plise fa mi citka
+I eat an apple/apples
+#+END_SRC
+
+If we want to add extra things to a relationship, we use modals.
+
+#+BEGIN_SRC 
+se pi'o
+using (derived from the x2 of pilno)
+
+mi citka se pi'o lo smuci
+I eat using a spoon
+#+END_SRC
 
 * Attitudinal Scope                                                  :medium:
 
